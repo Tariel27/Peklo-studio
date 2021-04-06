@@ -1,2 +1,2 @@
 # Peklo-studio
-marketer development tools
+developing marketing tools
